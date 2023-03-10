@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "todo-app-api",
+  "version": "1.0.0",
+  "main": "iindex.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana21ah/todo-app-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ana21ah/todo-app-api/issues"
+  },
+  "homepage": "https://github.com/Ana21ah/todo-app-api#readme",
+  "description": ""
+}
